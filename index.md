@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Zachery Sheley
 
-You can use the [editor on GitHub](https://github.com/zsheley/zsheley.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my website! If you look hard enough you might just find something worth your time!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
+So you don't die of boredom I'll skip over the parts of the intro that really don't matter.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hello, yada yada just call me Zach. Somethin' somethin' senior yada yada Maggie L. Walker Governor's School. More boring words galavanting waka waka woods, blah blah blah working blah surveying crew, even more unnecessary words video games.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+  ,   A           {}
+ / \, | ,        .--.
+|    =|= >      /.--.\
+ \ /` | `       |====|
+  `   |         |`::`|  
+      |     .-;`\..../`;_.-^-._
+     /\\/  /  |...::..|`   :   `|
+     |:'\ |   /'''::''|   .:.   |
+      \ /\;-,/\   ::  |..:::::..|
+      |\ <` >  >._::_.| ':::::' |
+      | `""`  /   ^^  |   ':'   |
+      |       |       \    :    /
+      |       |        \   :   / 
+      |       |___/\___|`-.:.-`
+      |        \_ || _/    `
+      |        <_ >< _>
+      |        |  ||  |
+      |        |  ||  |
+      |       _\.:||:./_
+      |      /____/\____\
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Enjoy this depiction of a knight in ASCII art! :)
 
-### Jekyll Themes
+### So, why are you here?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zsheley/zsheley.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Well... any number of reasons I guess. Chances are I gave you my site link to checkout some pictures or maybe download my resume. Who knows maybe you're some sort of 
+crazy Russian hacker trying to steal my data. In which case I recommend calling up Mr. Zuck, I'm sure he's running a sale! Whatever the case, you're here; might as well enjoy your stay however brief it is!
 
-### Support or Contact
+### Things YOU Should Know
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- I really like using commas, even if I end up using them wrong.
+- I like to hide things on my sites. Keep an eye out!
+- I'm only temporarily using this Jekyll theme. I'm in the process of moving site pages around and I needed something easy as a placeholder.
+- Assume any info submitted to this page and sub pages is not secure. Ya never know. It's always better to be safe than sorry.
