@@ -10,7 +10,7 @@ Hello, yada yada just call me Zach. Somethin' somethin' senior yada yada Maggie 
 
 ### So, why are you here?
 
-Well... any number of reasons I guess. Chances are I gave you my site link to checkout some pictures or maybe download my resume. Who knows maybe you're some sort of 
+Well... any number of reasons I guess. Chances are I gave you my site link to checkout some pictures or maybe to download my resume. Who knows maybe you're some sort of 
 crazy Russian hacker trying to steal my data. In which case I recommend calling up Mr. Zuck, I'm sure he's running a sale! Whatever the case, you're here; might as well enjoy your stay however brief it is!
 
 ### Things YOU Should Know
