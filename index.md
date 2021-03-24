@@ -1,37 +1,12 @@
 ## Zachery Sheley
 
-Welcome to my website! If you look hard enough you might just find something worth your time!
+Welcome to my website! If you look hard enough you might just find something worth your while!
 
 ### About Me
 
 So you don't die of boredom I'll skip over the parts of the intro that really don't matter.
 
 Hello, yada yada just call me Zach. Somethin' somethin' senior yada yada Maggie L. Walker Governor's School. More boring words galavanting waka waka woods, blah blah blah working blah surveying crew, even more unnecessary words video games.
-
-```markdown
-  ,   A           {}
- / \, | ,        .--.
-|    =|= >      /.--.\
- \ /` | `       |====|
-  `   |         |`::`|  
-      |     .-;`\..../`;_.-^-._
-     /\\/  /  |...::..|`   :   `|
-     |:'\ |   /'''::''|   .:.   |
-      \ /\;-,/\   ::  |..:::::..|
-      |\ <` >  >._::_.| ':::::' |
-      | `""`  /   ^^  |   ':'   |
-      |       |       \    :    /
-      |       |        \   :   / 
-      |       |___/\___|`-.:.-`
-      |        \_ || _/    `
-      |        <_ >< _>
-      |        |  ||  |
-      |        |  ||  |
-      |       _\.:||:./_
-      |      /____/\____\
-```
-
-Enjoy this depiction of a knight in ASCII art! :)
 
 ### So, why are you here?
 
